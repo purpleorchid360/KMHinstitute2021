@@ -1,0 +1,33 @@
+BaseURL = "http://kmhinstitute.com/"
+  languageCode = "en-us"
+  title = "Dr. Kamakshi Institute of Medical Science and Research"
+  theme = "samhugobs5theme"
+  relativeURLS = true
+  
+  [permalinks]
+    services = ":title/"
+
+  [params]
+    author = "Zigma Marketing"
+    description = "Dr. Kamakshi Institute of Medical Science and Research"
+    linkedinurl  = ""
+    facebookurl  = "https://www.facebook.com/kmhinstitute"
+    telephone = "+919344674515"
+    email     = "academicboard@drkmh.com"
+    twitterurl   = ""
+    instagramurl = "https://www.instagram.com/kamakshiinstitute/"
+    icon = "/icons/android-chrome-512x512.png"
+    logo = "/images/kimsr_logo.png"
+    logoalt  = "Dr. Kamakshi Institute of Medical Science and Research Logo"
+    
+  
+  [module]
+    [[module.mounts]]
+      source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+      target = "assets/js/bootstrap.bundle.min.js"
+
+  [frontmatter]
+    date = ["date", "publishDate", "lastmod"]
+    lastmod = ["lastmod", ":fileModTime", ":default"]
+
+  sectionPagesMenu = "main"

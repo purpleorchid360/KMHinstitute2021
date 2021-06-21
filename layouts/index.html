@@ -1,0 +1,59 @@
+
+{{ define "main" }}
+
+{{- partial "mobile-logo.html" . -}}
+
+<div class="container-fluid px-lg-5 pt-md-5 pt-2 pb-5 mb-5">
+    <div class="card-group g-4 d-block d-md-flex align-items-stretch justify-content-between">
+        <div class="card border-0">
+            <div class="card-header border-0 bg-transparent text-center text-md-start">
+                <h1 class="">Dr. Kamakshi Institute of Medical Science and Research</h1>
+                <p class="card-subtitle text-muted">AERB Recognised Center</p>
+            </div>
+            <div class="card-body">
+                <p class="lead mb-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            </div>
+           <div class="card-footer bg-transparent border-0">
+               <button type="button" class="btn btn-primary btn-lg text-center d-block mx-auto">Apply Now</button>
+           </div>
+        </div>
+        <form class="card text-white" style="background-color: #6F3C8D;">
+            <h2 class="card-header text-center my-2 border-0 bg-transparent ">Get 2021-22 Digital Prospectus</h2>
+            <div class="px-4 py-4">
+                <div class="row mb-3">
+                    <div class="col-md-6 mb-3">
+                        <input type="text" class="form-control" placeholder="First name" aria-label="First name" required>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <input type="text" class="form-control" placeholder="Last name" aria-label="Last name" required>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label for="inputEmail" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="inputEmail" aria-required="true" required>
+                </div>
+                <div class="mb-3">
+                    <label for="inputPhone" class="form-label">Phone Number</label>
+                    <input type="tel" class="form-control" id="inputPhone" aria-required="true"
+                        required>
+                </div>
+            </div>
+            <div class="card-footer bg-transparent border-0">
+                <button type="submit mb-3" class="btn btn-warning btn-lg d-block mx-auto">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+{{- partial "courses.html" . -}}
+
+{{- partial "aboutKMISR.html" . -}}
+
+<br class="py-4">
+
+{{- partial "chairman-message.html" . -}}
+
+{{- partial "affiliations.html" . -}}
+
+{{- partial "aboutKMH.html" . -}}
+{{ end }}
