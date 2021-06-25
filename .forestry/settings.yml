@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: "\\content\\bachelors-of-science"
+  path: content/bachelors-of-science
   label: Bachelor of Science
   create: all
   match: "**/*"
