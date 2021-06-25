@@ -1,6 +1,6 @@
-<ul class="navbar-nav">
+<ul class="navbar-nav nav-pills w-100 d-md-flex nav-fill">
     <li class="nav-item">
-        <a class="nav-link {{ if .IsHome }} active {{ end }} " href="{{ .Site.Home.Permalink }}">Home</a>
+        <a class="nav-link {{ if .IsHome }} active text-white {{ end }} " href="{{ .Site.Home.Permalink }}">Home</a>
     </li>
     {{ $currentPage := . }}
 
@@ -8,7 +8,7 @@
 
     {{ if .HasChildren }}
     <li class="nav-item dropdown">
-        <a class='nav-link dropdown-toggle  {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active {{ end }}'
+        <a class='nav-link dropdown-toggle  {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active text-white {{ end }}'
             href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             {{ .Title }}
         </a>
@@ -16,7 +16,7 @@
         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             {{ range .Children }}
             <li>
-                <a class='dropdown-item  {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active {{ end }}'
+                <a class='dropdown-item  {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active text-white {{ end }}'
                     href="{{ .URL }}"> {{ .Title }}</a>
             </li>
             {{ end }}
@@ -25,7 +25,7 @@
 
     {{ else }}
     <li class="nav-item">
-        <a class='nav-link {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active {{ end }}'
+        <a class='nav-link {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active text-white {{ end }}'
             href="{{ absURL .URL }}">
             {{ .Title }}
         </a>

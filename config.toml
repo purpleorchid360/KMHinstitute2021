@@ -1,4 +1,4 @@
-BaseURL = "http://kmhinstitute.com/"
+BaseURL = "/"
   languageCode = "en-us"
   title = "Dr. Kamakshi Institute of Medical Science and Research"
   theme = "samhugobs5theme"
@@ -30,4 +30,24 @@ BaseURL = "http://kmhinstitute.com/"
     date = ["date", "publishDate", "lastmod"]
     lastmod = ["lastmod", ":fileModTime", ":default"]
 
+  [menu]
+    
+    [[menu.main]]
+      identifier = "bsc"
+      title = "BSc"
+      url = "/bachelors-of-science"
+      weight = 200
+    
+    [[menu.main]]
+      identifier = "msc"
+      title = "MSc"
+      url = "/masters-of-science"
+      weight = 300
+
+    [[menu.main]]
+      identifier = "diploma"
+      title = "Diploma"
+      url = "/diploma"
+      weight = 400
+  
   sectionPagesMenu = "main"

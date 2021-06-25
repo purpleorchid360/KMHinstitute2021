@@ -1,0 +1,60 @@
+<div class="container-fluid" id="contact">
+    <h2 class="text-center bg-primary text-white">Contact Us</h2>
+    <div class="row d-md-flex justify-content-evenly align-items-stretch">
+        <div class="col-md-5" id="map">
+            <iframe width="400px" height="200px" loading="lazy" allowfullscreen
+                src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJw6tIk1xdUjoRO-b1Ae0PSvc&key=AIzaSyBIuzSyvK-76cL7uspvywb6XkcM5u0aG_s"></iframe>
+        </div>
+        <div class="col-md-5">
+            <div class="card bg-light border-primary">
+                <div class="card-header">
+                    <h3 class="text-center text-primary">
+                        We're eager to hear from you
+                    </h3>
+                </div>
+                <div class="card-body">     
+                    {{with .Site.Params.telephone}}
+                    <div class="btn-group mb-2 mx-2" role="group">
+                        <a href="tel:{{.}}" class="btn btn-outline-dark btn-lg">
+                            <i class="bi bi-telephone"></i>
+                        </a>
+                        <a href="tel:{{.}}" class="btn btn-outline-dark btn-lg">
+                            <span class="">{{.}}</span>
+                        </a>
+                    </div>
+                    {{end}}
+                    {{with .Site.Params.email}}
+                        <div class="btn-group mb-2 mx-2" role="group">
+                            <a href="mailto:{{.}}" class="btn btn-outline-dark btn-lg">
+                                <i class="bi bi-envelope"></i>
+                            </a>
+                            <a href="mailto:{{.}}" class="btn btn-outline-dark btn-lg">
+                                <span class="">{{.}}</span>
+                            </a>
+                        </div>
+                    {{end}}
+                    {{with .Site.Params.facebookurl}}
+                        <div class="btn-group mb-2 mx-2" role="group">
+                            <a href="{{.}}" class="btn btn-outline-dark btn-lg">
+                                <i class="bi bi-facebook"></i>
+                            </a>
+                            <a href="{{.}}" class="btn btn-outline-dark btn-lg">
+                                <span class="">{{.}}</span>
+                            </a>
+                        </div>
+                    {{end}}
+                    {{with .Site.Params.instagramurl}}
+                        <div class="btn-group mb-2 mx-2" role="group">
+                            <a href="{{.}}" class="btn btn-outline-dark btn-lg">
+                                <i class="bi bi-instagram"></i>
+                            </a>
+                            <a href="{{.}}" class="btn btn-outline-dark btn-lg">
+                                <span class="">{{.}}</span>
+                            </a>
+                        </div>
+                    {{end}}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
