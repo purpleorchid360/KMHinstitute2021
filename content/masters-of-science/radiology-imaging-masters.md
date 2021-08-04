@@ -1,41 +1,48 @@
 ---
 title: "M.Sc. Radiography and Imaging Technology"
 draft: false
-featuredImage: /assets/images/anchoring_bias-post.jpg
-categories: ["postgraduate", "radiography","imaging" ]
-tags: ["masters","science","msc"]
-keywords: ["hugo", "bootstrap","serverless", "hosting"]
+featuredimage: /images/photo-1200x400.jpg
 menu:
   main:
     identifier: "master-radio"
-    weight: 310 
+    weight: 310
     parent: "msc"
 ---
-# M.Sc. Radiography and Imaging Technology
 
-## Affiliation
+### Affiliation
+
 The Tamil Nadu Dr.M.G.R. Medical University
 
-## Approval
+### Approval
+
 The course is approved by the Atomic Energy Regulatory Board, Government of India
 
-## Objective
+### Objective
 
 To provide specialized training in Radiology and Imaging Technology and its application in order to create qualified manpower to handle modern radiological equipments with a successful carrier. They will be trained clinically in hand by patient including radiography, fluoroscopy, mammography, computer tomography, magnetic resonance imaging and ultrasound.
 
-After successful completion of the M.Sc. course, students will have a broad knowledge of principles, technology, instrumentation, recent developments, proper handling of the modern radiological equipments. They are expected to carry out various radiological procedures and patient preparation in good quality 
+After successful completion of the M.Sc. course, students will have a broad knowledge of principles, technology, instrumentation, recent developments, proper handling of the modern radiological equipments. They are expected to carry out various radiological procedures and patient preparation in good quality
 
-## Career Options
-The candidate with M.Sc. qualification finds job opportunities in leading hospitals, including teaching post, as Asst. Professor. Higher studies such as Ph.D is also possible. 
+### Career Options
 
-## Medium
+The candidate with M.Sc. qualification finds job opportunities in leading hospitals, including teaching post, as Asst. Professor. Higher studies such as Ph.D is also possible.
+
+### Medium
+
 English
 
-## Duration
+### Duration
+
 2 Years course of study
 
-## Annual Intake
+### Annual Intake
+
 10 seats
 
-## Eligibility
+### Eligibility
+
 B.Sc. Radiology & Imaging Technology or its equivalent
+
+### Condition for Eligibility
+
+Candidates those who are NOT belonging to the Tamil Nadu Dr.M.G.R Medical University, the candidates to get eligible certificate through Tamil Nadu Dr.M.G.R Medical University
