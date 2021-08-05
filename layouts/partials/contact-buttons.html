@@ -1,6 +1,6 @@
 <div class="btn-group align-self-center" role="group" aria-label="Contact">
     {{with .Site.Params.telephone}}
-    <a href="tel:{{.}}" class="btn btn-outline-dark">
+    <a onclick="return gtag_report_conversion('tel:{{.}}');" href="tel:{{.}}" class="btn btn-outline-dark">
         <i class="bi bi-telephone"></i>
     </a>{{end}}
     {{with .Site.Params.email}}

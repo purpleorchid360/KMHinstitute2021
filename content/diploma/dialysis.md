@@ -13,17 +13,14 @@ menu:
 
 Bharat Sevak Samaj, New Delhi
 
-### Dialysis Unit
-
-The NABH Accredited, Government of India
-
 ### Objective
 
-The objective of this program is to conduct various diagnostic laboratory tests, analysis and provide vital information about the status of an individual’s health.
+The student learns to function as a dialysis technician with proficient clinical skills with a basic understanding of nephrology care. Upon completion of the course the student is prepared to take the examination to be a certified dialysis technician. The student will learn basic patient care related to the nephrology patient, machine technology, water treatment, and dialyzer reprocessing and educational development. The student will learn to give safe and competent nephrology care.
 
 ### Career Options
 
-This course gives rise to a rather recent and attractive career option in the form of medical laboratory technologists who are entrusted with the responsibility to maintain blood banks, perform and analyze clinical bio-chemistry, hematology, immunology and microbiology tests. Self-employment opportunities as well as option to pursue higher studies: M.Sc. in medical laboratory technology are also available to the candidates.
+- Dialysis technician have a lot of opportunities to work in the government sector, Private Sector and have a major demand in the Indian Army.
+- Opportunities as well as option to pursue higher studies: B.Sc. in Dialysis technology.
 
 ### Medium
 

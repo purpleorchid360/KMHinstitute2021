@@ -23,7 +23,19 @@ X-Ray, Mammography, CT-scan, MRI and Ultrasound imaging are employed to diagnose
 
 ### Career Options
 
-There are ample opportunities as technologist in diagnostic imaging centers, super specialty hospitals, Government and private hospitals. Self-employment opportunities, as well as option to pursue higher studies such as M.Sc. Radiography and Imaging technology are also available.
+There are ample career opportunities post completion of the Bsc Radiotherapy program such as:
+
+- **Radiography technologists** in healthcare institutions both government and private sector, super specialty hospitals, Diagnostic and Imaging centers. Depending on the performance, there could be a rapid ascent to senior positions or specialize as a single imaging technologist such as MRI Technologist, CT Technologist or a PET CT Technologist by qualifying in appropriate certification programs.
+- **Application Specialists** in various Multinational Companies in manufacturing/service sector of radiology/radiography equipments
+- **Medical Coders** in hospitals where this program equips the students with the expertise knowledge in Radiology medical coding
+- **Post Graduate Program**- BSC Radiology course forms the foundation for the students who want to pursue their higher studies in
+- MSC Radiology
+- PGD in radiology/radiotherapy
+- MSc Medical Radiation Physics
+- Masters in Magnetic Resonance Imaging.
+- PGD in business management and administration
+
+The average remuneration for a radiography technologist ranges 2.4 – 3.5 LPA.
 
 ### Medium
 
@@ -47,7 +59,7 @@ Minimum 17 years completed
 
 ### Eligibility
 
-A pass in higher secondary course (+2) with Physics, Chemistry &amp; Biology subjects or an equivalent with 12 years of schooling from a recognized board of school examination with minimum of 45% of marks in each subjects.
+A pass in higher secondary course (+2) with Physics, Chemistry &amp; Biology subjects or an equivalent with 12 years of schooling from a recognized board of school examination with minimum of 45% of marks in each subjects
 
 ### Condition for Eligibility
 

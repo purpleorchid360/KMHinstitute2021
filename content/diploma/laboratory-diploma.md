@@ -13,7 +13,7 @@ menu:
 
 Bharat Sevak Samaj, New Delhi
 
-### Dialysis Unit
+### Lab
 
 The NABH Accredited, Government of India
 
@@ -23,7 +23,7 @@ The objective of this program is to conduct various diagnostic laboratory tests,
 
 ### Career Options
 
-This course gives rise to a rather recent and attractive career option in the form of medical laboratory technologists who are entrusted with the responsibility to maintain blood banks, perform and analyze clinical bio-chemistry, hematology, immunology and microbiology tests. Self-employment opportunities as well as option to pursue higher studies: M.Sc. in medical laboratory technology are also available to the candidates.
+This course lays down the foundation for candidates who wish to progress their career in Medical laboratory technology. They will start their role as technicians and technical assistants who are entrusted with the responsibility to assist the senior technologists in blood banks, perform and analyze clinical bio-chemistry, hematology, immunology and microbiology tests. It is ideal they pursue B.Sc. in medical laboratory technology.
 
 ### Medium
 

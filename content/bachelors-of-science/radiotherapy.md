@@ -19,11 +19,34 @@ The course is approved by the Atomic Energy Regulatory Board, Government of Indi
 
 ### Objective
 
-To train the candidates in techniques applied to radiotherapy and all types of cancers treatments. It will also provide practical training in the operation and handling of the radiotherapy treatment machines, including treatment planning. They will be trained clinically in handling patients, including linear accelerator, branchy therapy, treatment planning, mould making, CT simulation and operation theatre procedures.
+To impart skills and knowledge to the candidates to work in conjunction with the Radiation Oncology team of oncologists, Medical Physicists and other staff in the application of prescribed doses of ionizing radiation for the treatment of malignant diseases (Cancer). Practical training in the operation and handling of the radiotherapy treatment equipment’s are provided. The Candidates will be trained on
+
+- Handling of Teletherapy and brachytherapy equipment’s
+- Mould room
+- Immobilization techniques
+- CT simulation
+- Radiation dosimetry
+- Patient record management and safe handling of patients.
 
 ### Career Options
 
-There are ample opportunities as Radiation therapy technologists in various cancer institutions, including super specialty hospitals, government and private hospitals. Further studies like M.Sc. Radiotherapy technology is also available.
+Employment opportunities are widespread for radiotherapy candidates and are as follows:
+
+- **Clinical Radiotherapy Technologists** in healthcare institutions with Radiotherapy facilities in both public and private sectors and also in standalone Radiotherapy centers. Based on their interests, performance and experience one can reach the positions of senior Radiotherapy Technologist to Chief radiotherapy technologist.
+
+- **Application Specialists** in the Manufacturing/Service sectors of Radiotherapy/Radiological equipments. One can reach heights as an Executive Manager.
+
+- **Medical Coders** in hospital where the program equips the candidates with knowledge in radiotherapy medical coding.
+
+- **Overseas Opportunities**
+
+- **Higher education options** are open to pursue
+
+- Masters in Radiotherapy
+  - Masters in Medical Radiation Physics
+  - PG in business administration
+
+The average remuneration for a radiography technologist ranges 2.4 – 3.5 LPA.
 
 ### Medium
 
@@ -47,7 +70,7 @@ Minimum 17 years completed
 
 ### Eligibility
 
-A pass in higher secondary course (+2) with Physics, Chemistry and Biology subjects or an equivalent with 12 years of schooling from a recognized board of school examination with minimum of 45% of marks in each subjects.
+A pass in Higher Secondary Course (+2) with Physics, Chemistry and Biology, or an equivalent from a recognized board of school examination with minimum of 45% of marks in each subjects
 
 ### Condition for Eligibility
 

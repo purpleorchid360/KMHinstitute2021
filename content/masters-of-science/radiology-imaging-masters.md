@@ -19,13 +19,20 @@ The course is approved by the Atomic Energy Regulatory Board, Government of Indi
 
 ### Objective
 
-To provide specialized training in Radiology and Imaging Technology and its application in order to create qualified manpower to handle modern radiological equipments with a successful carrier. They will be trained clinically in hand by patient including radiography, fluoroscopy, mammography, computer tomography, magnetic resonance imaging and ultrasound.
+To provide specialized training in Radiology and Imaging Technology and its application to create qualified manpower to handle modern radiological equipment’s with a successful carrier. They will be trained clinically in hand by patient including radiography, fluoroscopy, mammography, computer tomography, magnetic resonance imaging and ultrasound.
 
-After successful completion of the M.Sc. course, students will have a broad knowledge of principles, technology, instrumentation, recent developments, proper handling of the modern radiological equipments. They are expected to carry out various radiological procedures and patient preparation in good quality
+After successful completion of the M.Sc. course, students will have a broad knowledge of principles, technology, instrumentation, recent developments, proper handling of the modern radiological equipment’s. They are expected to carry out various radiological procedures and patient preparation in good quality.
 
 ### Career Options
 
-The candidate with M.Sc. qualification finds job opportunities in leading hospitals, including teaching post, as Asst. Professor. Higher studies such as Ph.D is also possible.
+MSc Radiography and Imaging Technology opens up multiple avenues for students such as
+
+- **Senior Radiography Technologists or Managerial positions in the department of radiology** in healthcare institutions both government and private sector, super specialty hospitals.
+- **Faculty- Academic Institutions** absorb candidates who have completed their Masters degree in radiology as the teaching faculty.
+- **Senior Application Specialists/Managerial positions** in the Manufacturing/Service sectors of Radiology & Radiotherapy equipment’s
+- **Ph.D/M.Phil in Radiography and Imaging technology**
+
+The average remuneration for a radiography technologist ranges 4.5 LPA.
 
 ### Medium
 
