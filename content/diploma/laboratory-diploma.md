@@ -1,7 +1,7 @@
 ---
 title: "Diploma in Medical Laboratory Technology"
 draft: false
-featuredimage: /images/photo-1200x400.jpg
+featuredimage: /images/about-kmisr
 menu:
   main:
     identifier: "laboratory-diploma"

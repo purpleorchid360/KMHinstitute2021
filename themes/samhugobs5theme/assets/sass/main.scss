@@ -14,3 +14,7 @@
 #TableOfContents > ul > li > a {
   @extend .nav-link;
 }
+
+html {
+  scroll-padding-top: 100px;
+}

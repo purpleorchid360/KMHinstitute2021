@@ -52,8 +52,8 @@ BaseURL = "/"
 
     [[menu.main]]
       identifier = "dnb"
-      title = "PG Diploma"
-      url = "/pg-diploma"
+      title = "DNB Programs"
+      url = "/dnb"
       weight = 500
   
   sectionPagesMenu = "main"

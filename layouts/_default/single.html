@@ -9,13 +9,22 @@
 
     <div class="container col-xxl-9">
         <h2 class="text-center text-white bg-primary pb-2 mb-4">{{ .Title }}</h2>
-        <div class="row mb-4">
+        <div class="row mb-4 align-items-center">
             <div class="col-md-4 order-2 order-md-1">
                 <h3 class="text-center">Table of Contents</h3>
                 {{.TableOfContents}}
             </div>
-            <img src="{{.Params.featuredimage}}" class="img-fluid rounded col-md-8 order-1 order-md-2" alt=""
-                style="object-fit: cover;">
+
+            <picture class="col-md-8 order-1 order-md-2">
+                <source media="(max-width: 380px)" srcset="{{.Params.featuredimage}}-360x120.webp" type="image/webp">
+                <source media="(max-width: 380px)" srcset="{{.Params.featuredimage}}-360x120.jpg" type="image/jpg">
+                <source media="(max-width: 560px)" srcset="{{.Params.featuredimage}}-550x183.webp" type="image/webp">
+                <source media="(max-width: 560px)" srcset="{{.Params.featuredimage}}-550x183.jpg" type="image/jpg">
+                <source media="(min-width: 561px)" srcset="{{.Params.featuredimage}}-1200x400.webp" type="image/webp">
+                <img src="{{.Params.featuredimage}}-1200x400.jpg" class="img-fluid rounded" alt="{{.Title}}"
+                    loading="lazy">
+            </picture>
+
         </div>
         <div class="text-center text-md-start">
             {{ .Content }}

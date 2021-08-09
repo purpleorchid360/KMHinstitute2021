@@ -3,7 +3,13 @@
     <div class="row row-cols-1 row-cols-md-3 d-flex justify-content-evenly">
         <div class="col mb-2">
             <div class="card h-100 p-md-2 border-3 border-primary bg-light" id="bsc">
-                <img src="/images/photo-550x288.jpg" class="card-img-top mb-3" alt="" loading="lazy">
+                <picture>
+                    <source media="(max-width: 380px)" srcset="/images/undergraduate-360x188.webp" type="image/webp">
+                    <source media="(max-width: 380px)" srcset="/images/undergraduate-360x188.jpg" type="image/jpg">
+                    <source media="(min-width: 381px)" srcset="/images/undergraduate-550x288.webp" type="image/webp">
+                    <img src="/images/undergraduate-550x288.jpg" class="card-img-top mb-3"
+                        alt="a girl with a backpack in a library with her thumbs up" loading="lazy">
+                </picture>
                 <h4 class="card-title text-center mb-3 text-primary">
                     Bachelor of Science Programs
                 </h4>
@@ -23,7 +29,13 @@
         </div>
         <div class="col mb-2">
             <div class="card h-100 p-md-2 border-3 border-primary bg-light" id="msc">
-                <img src="/images/photo-550x288.jpg" class="card-img-top mb-3" alt="" loading="lazy">
+                <picture>
+                    <source media="(max-width: 380px)" srcset="/images/postgraduate-360x188.webp" type="image/webp">
+                    <source media="(max-width: 380px)" srcset="/images/postgraduate-360x188.jpg" type="image/jpg">
+                    <source media="(min-width: 381px)" srcset="/images/postgraduate-550x288.webp" type="image/webp">
+                    <img src="/images/postgraduate-550x288.jpg" class="card-img-top mb-3"
+                        alt="a person in a labcoat looking at a chest xray" loading="lazy">
+                </picture>
                 <h4 class="card-title text-center mb-3 text-primary">
                     Masters of Science Programs
                 </h4>
@@ -37,7 +49,13 @@
         </div>
         <div class="col mb-2">
             <div class="card h-100 p-md-2 border-3 border-primary bg-light" id="diploma">
-                <img src="/images/photo-550x288.jpg" class="card-img-top mb-3" alt="" loading="lazy">
+                <picture>
+                    <source media="(max-width: 380px)" srcset="/images/diploma-lab-360x188.webp" type="image/webp">
+                    <source media="(max-width: 380px)" srcset="/images/diploma-lab-360x188.jpg" type="image/jpg">
+                    <source media="(min-width: 381px)" srcset="/images/diploma-lab-550x288.webp" type="image/webp">
+                    <img src="/images/diploma-lab-550x288.jpg" class="card-img-top mb-3"
+                        alt="a person in a labcoat looking at a chest xray" loading="lazy">
+                </picture>
                 <h4 class="card-title text-center mb-3">
                     Diploma Programs
                 </h4>
@@ -63,8 +81,18 @@
         </h4>
         <div class="row align-content-stretch">
             <div class="col-md-5">
-                <img src="/images/photo-500x620.jpg" class="h-100 w-100" alt="" loading="lazy"
-                    style="object-fit: cover;">
+                <picture>
+                    <source media="(max-width: 380px)" srcset="/images/dnb-360x188.webp" type="image/webp">
+                    <source media="(max-width: 380px)" srcset="/images/dnb-360x188.jpg" type="image/jpg">
+                    <source media="(min-width: 381px) and (orientation: landscape)" srcset="/images/dnb-500x620.webp"
+                        type="image/webp">
+                    <source media="(min-width: 381px) and (orientation: landscape)" srcset="/images/dnb-500x620.webp"
+                        type="image/webp">
+                    <source media="(min-width: 381px) and (orientation: portrait)" srcset="/images/dnb-550x288.webp"
+                        type="image/webp">
+                    <img src="/images/dnb-550x288.jpg" class="h-100 w-100"
+                        alt="a person in a labcoat looking at a chest xray" loading="lazy" style="object-fit: cover;">
+                </picture>
             </div>
             <div class="col-md-7">
                 <div class="">
