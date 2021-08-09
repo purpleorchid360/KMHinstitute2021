@@ -27,7 +27,7 @@ After successful completion of the M.Sc. course, students will have a broad know
 
 MSc Radiography and Imaging Technology opens up multiple avenues for students such as
 
-- **Senior Radiography Technologists or Managerial positions in the department of radiology** in healthcare institutions both government and private sector, super specialty hospitals.
+- **Senior Radiography Technologists or Managerial positions in the department of radiology** in healthcare institutions both Government and private sector, Super Specialty hospitals.
 - **Faculty- Academic Institutions** absorb candidates who have completed their Masters degree in radiology as the teaching faculty.
 - **Senior Application Specialists/Managerial positions** in the Manufacturing/Service sectors of Radiology & Radiotherapy equipment’s
 - **Ph.D/M.Phil in Radiography and Imaging technology**

@@ -19,7 +19,7 @@ The student learns to function as a dialysis technician with proficient clinical
 
 ### Career Options
 
-- Dialysis technician have a lot of opportunities to work in the government sector, Private Sector and have a major demand in the Indian Army.
+- Dialysis technician have a lot of opportunities to work in the Government sector, Private Sector and have a major demand in the Indian Army.
 - Opportunities as well as option to pursue higher studies: B.Sc. in Dialysis technology.
 
 ### Medium

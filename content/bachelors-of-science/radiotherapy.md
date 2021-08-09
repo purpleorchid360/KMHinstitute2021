@@ -42,7 +42,7 @@ Employment opportunities are widespread for radiotherapy candidates and are as f
 
 - **Higher education options** are open to pursue
 
-- Masters in Radiotherapy
+  - Masters in Radiotherapy
   - Masters in Medical Radiation Physics
   - PG in business administration
 

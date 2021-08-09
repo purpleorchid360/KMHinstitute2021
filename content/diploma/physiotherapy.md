@@ -22,7 +22,7 @@ Bharat Sevak Samaj, New Delhi
 ### Career Options
 
 - **Physiotherapy assistants** work in hospitals, orthopedic departments, rehabilitation centres, schools for the mentally retarded and physically disabled children.
-- They also have a lot of opportunities to work in government hospitals.
+- They also have a lot of opportunities to work in Government hospitals.
 
 ### Medium
 

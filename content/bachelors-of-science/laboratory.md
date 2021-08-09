@@ -34,10 +34,10 @@ This course gives rise to a rather recent and attractive career option in the fo
 - **Overseas opportunities** in abundance
 - **Post-graduation options** include
   - MSc Mlt
-  - MSc clinical chemistry
-  - MSc clinical microbiology
-  - PGD in biomedical lab technology
-  - PG in health care administration, hospital management
+  - MSc Clinical Chemistry
+  - MSc Clinical Microbiology
+  - PGD in Biomedical Lab Technology
+  - PG in Healthcare Administration, Hospital Management
 - Lab technicians can also go for specialisation such as **Cytotechnologist** who have focus on a general variety of diseases found by using a microscope to detect abnormalities in human body cells.
   The average remuneration for a radiography technologist ranges 2.4 – 3.5 LPA.
 

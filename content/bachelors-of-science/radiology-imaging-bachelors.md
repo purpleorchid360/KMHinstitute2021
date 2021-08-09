@@ -25,7 +25,7 @@ X-Ray, Mammography, CT-scan, MRI and Ultrasound imaging are employed to diagnose
 
 There are ample career opportunities post completion of the Bsc Radiotherapy program such as:
 
-- **Radiography technologists** in healthcare institutions both government and private sector, super specialty hospitals, Diagnostic and Imaging centers. Depending on the performance, there could be a rapid ascent to senior positions or specialize as a single imaging technologist such as MRI Technologist, CT Technologist or a PET CT Technologist by qualifying in appropriate certification programs.
+- **Radiography technologists** in healthcare institutions both Government and private sector, Super Specialty hospitals, Diagnostic and Imaging centers. Depending on the performance, there could be a rapid ascent to senior positions or specialize as a single imaging technologist such as MRI Technologist, CT Technologist or a PET CT Technologist by qualifying in appropriate certification programs.
 - **Application Specialists** in various Multinational Companies in manufacturing/service sector of radiology/radiography equipments
 - **Medical Coders** in hospitals where this program equips the students with the expertise knowledge in Radiology medical coding
 - **Post Graduate Program**- BSC Radiology course forms the foundation for the students who want to pursue their higher studies in

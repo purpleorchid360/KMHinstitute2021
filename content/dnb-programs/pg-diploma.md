@@ -35,7 +35,7 @@ Dr. Kamakshi Memorial Hospital Pvt Ltd is recognized by the National Board of Ex
 ### Eligibility
 
 - MBBS with full registration.
-- Successful passing of the DNB Primary exam.
+- Successful passing of National Eligibility cum Entrance Test(NEET)
 - **Allotment of the candidates is done by the National Board of Examinations**
 - Doctors who have successfully completed a DMRD / DA / PGDMCH / PGDGM may be nominated by the National Boards for a 2-years program.
 - All positions are fulltime, residency training programs. The candidates are not permitted to carry on or accept any other duties outside the hospital during the training period.
