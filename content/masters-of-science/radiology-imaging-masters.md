@@ -1,7 +1,7 @@
 ---
 title: "M.Sc. Radiography and Imaging Technology"
 draft: false
-featuredimage: /images/about-kmisr
+featuredimage: /images/msc-radiography-and-imaging
 menu:
   main:
     identifier: "master-radio"

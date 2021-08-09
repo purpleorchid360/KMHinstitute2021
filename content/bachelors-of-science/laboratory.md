@@ -1,7 +1,7 @@
 ---
 title: "B.Sc.Medical Laboratory Technology "
 draft: false
-featuredimage: /images/about-kmisr
+featuredimage: /images/bsc-medical-laboratory-technology
 menu:
   main:
     identifier: "bachelor-laboratory"

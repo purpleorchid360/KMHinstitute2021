@@ -1,7 +1,7 @@
 ---
 title: "National Board of Examination - DNB Programs"
 draft: false
-featuredimage: /images/about-kmisr
+featuredimage: /images/national-board-examination-diploma
 menu:
   main:
     identifier: "dnbdetails"

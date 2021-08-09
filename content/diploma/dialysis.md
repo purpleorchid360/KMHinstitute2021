@@ -1,7 +1,7 @@
 ---
 title: "Diploma in Dialysis Technology"
 draft: false
-featuredimage: /images/about-kmisr
+featuredimage: /images/diploma-dialysis-technology
 menu:
   main:
     identifier: "dialysis-diploma"

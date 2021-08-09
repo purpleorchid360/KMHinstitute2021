@@ -1,7 +1,7 @@
 ---
 title: "Diploma in Physiotherapy and Activity Therapy"
 draft: false
-featuredimage: /images/about-kmisr
+featuredimage: /images/diploma-physiotherapy
 menu:
   main:
     identifier: "physiotherapy-diploma"

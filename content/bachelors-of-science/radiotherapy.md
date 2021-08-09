@@ -1,7 +1,7 @@
 ---
 title: "B.Sc.Radiotherapy Technology "
 draft: false
-featuredimage: /images/about-kmisr
+featuredimage: /images/bsc-radiotherapy-technology
 menu:
   main:
     identifier: "bachelor-radiotherapy"

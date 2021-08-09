@@ -1,7 +1,7 @@
 ---
 title: "B.Sc.Radiography and Imaging Technology "
 draft: false
-featuredimage: /images/about-kmisr
+featuredimage: /images/bsc-radiography-and-imaging
 menu:
   main:
     identifier: "bachelor-radio"

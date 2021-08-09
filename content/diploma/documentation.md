@@ -1,7 +1,7 @@
 ---
 title: "Diploma in Hospital Documentation and Records Management Technology"
 draft: false
-featuredimage: /images/about-kmisr
+featuredimage: /images/diploma-hospital-documentation
 menu:
   main:
     identifier: "documentation-diploma"
