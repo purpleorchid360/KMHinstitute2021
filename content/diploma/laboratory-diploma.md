@@ -15,7 +15,7 @@ Bharat Sevak Samaj, New Delhi
 
 ### Lab
 
-The NABH Accredited, Government of India
+The NABL Accredited, Government of India
 
 ### Objective
 

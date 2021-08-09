@@ -16,7 +16,7 @@ Bharat Sevak Samaj, New Delhi
 ### Objective
 
 - The two-year diploma Programme has been designed to produce skilled and qualified professionals capable of carrying out specific tasks to make the lives of patients better.
-- Dealing with topics such as Physical Rehabilitation, Electrotherapy and other modes of helping patients regain physical mobility, Diploma in Physiotherapy aims to produce competent professionals capable of assisting specialists in different medical procedures.
+- Dealing with topics such as Physical Rehabilitation, Electrotherapy and other modes of helping patients regain physical mobility. Diploma in Physiotherapy aims to produce competent professionals capable of assisting specialists in different medical procedures.
 - The course teaches students to maximize the performance of human movements. It involves functions and movements with efficient techniques to manage and improve human disorders for people of all age groups.
 
 ### Career Options
