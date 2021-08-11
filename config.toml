@@ -34,19 +34,19 @@ BaseURL = "/"
     
     [[menu.main]]
       identifier = "bsc"
-      title = "BSc"
+      title = "UG Programs"
       url = "/bachelors-of-science"
       weight = 200
     
     [[menu.main]]
       identifier = "msc"
-      title = "MSc"
+      title = "PG Programs"
       url = "/masters-of-science"
       weight = 300
 
     [[menu.main]]
       identifier = "diploma"
-      title = "Diploma"
+      title = "Diploma Programs"
       url = "/diploma"
       weight = 400
 
