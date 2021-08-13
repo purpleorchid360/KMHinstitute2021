@@ -1,8 +1,9 @@
-BaseURL = "/"
+BaseURL = "https://kmhinstitute.com"
   languageCode = "en-us"
   title = "Dr. Kamakshi Institute of Medical Science and Research"
   theme = "samhugobs5theme"
   relativeURLS = true
+  publishDir = "docs"
   
   [permalinks]
     services = ":title/"
